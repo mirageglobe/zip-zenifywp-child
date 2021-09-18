@@ -1,5 +1,7 @@
 # ZenifyWP Child
 
+this project is archived and integrated into zenifywp ( https://github.com/mirageglobe/zenifywp )
+
 - Author/site: Jimmy MG Lim (mirageglobe@gmail.com) / www.mirageglobe.com
 - Source: https://github.com/mirageglobe/zenifywp-child
 
